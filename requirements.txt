@@ -1,0 +1,28 @@
+# PDF处理
+pymupdf>=1.23.0
+pdfminer.six>=20220319
+
+# 机器学习和图像处理
+numpy>=1.21.0
+opencv-python-headless>=4.5.0
+onnx>=1.12.0
+onnxruntime>=1.12.0
+
+# 模型下载
+huggingface_hub>=0.16.0
+
+# 数据处理
+pandas>=1.3.0
+
+# 日志和进度条
+tqdm>=4.64.0
+
+# 文本处理
+regex>=2022.7.9
+
+# 并发处理
+concurrent.futures
+
+# 其他工具
+pathlib
+dataclasses
